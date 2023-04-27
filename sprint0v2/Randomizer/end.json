@@ -1,0 +1,136 @@
+{
+  "Entities": [
+    {
+      "EntityType": "ground",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2560,
+        "Y": 206
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 32
+    },
+    {
+      "EntityType": "ground",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2560,
+        "Y": 222
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 32
+    },
+    {
+      "EntityType": "unbreakableblock",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2624,
+        "Y": 190
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 9
+    },
+    {
+      "EntityType": "unbreakableblock",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2640,
+        "Y": 174
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 8
+    },
+    {
+      "EntityType": "unbreakableblock",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2656,
+        "Y": 158
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 7
+    },
+    {
+      "EntityType": "unbreakableblock",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2672,
+        "Y": 142
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 6
+    },
+    {
+      "EntityType": "unbreakableblock",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2688,
+        "Y": 126
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 5
+    },
+    {
+      "EntityType": "unbreakableblock",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2704,
+        "Y": 110
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 4
+    },
+    {
+      "EntityType": "unbreakableblock",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2720,
+        "Y": 94
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 3
+    },
+    {
+      "EntityType": "unbreakableblock",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2736,
+        "Y": 78
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 2
+    },
+    {
+      "EntityType": "unbreakableblock",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2880,
+        "Y": 190
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 1
+    },
+    {
+      "EntityType": "flagpole",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2873,
+        "Y": 43
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    },
+    {
+      "EntityType": "castle",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2984,
+        "Y": 126
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    }
+
+
+  ]
+}

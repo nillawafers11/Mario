@@ -1,0 +1,146 @@
+{
+  "Entities": [
+    {
+      "EntityType": "ground",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 1536,
+        "Y": 206
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 32
+    },
+    {
+      "EntityType": "ground",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 1536,
+        "Y": 222
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 32
+    },
+    {
+      "EntityType": "lakitu",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 1700,
+        "Y": 95
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    },
+    {
+      "EntityType": "questionblock",
+      "EntitySubItem": "fireflower",
+      "Location": {
+        "X": 1632,
+        "Y": 138
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    },
+    {
+      "EntityType": "brick",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 1616,
+        "Y": 138
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    },
+    {
+      "EntityType": "brick",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 1648,
+        "Y": 138
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 2
+    },
+    {
+      "EntityType": "unbreakableblock",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 1700,
+        "Y": 190
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    },
+    {
+      "EntityType": "unbreakableblock",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 1700,
+        "Y": 174
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    },
+
+    {
+      "EntityType": "brick",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 1760,
+        "Y": 138
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 3
+    },
+    {
+      "EntityType": "brick",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 1820,
+        "Y": 138
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 3
+    },
+    {
+      "EntityType": "unbreakableblock",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 1968,
+        "Y": 190
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 5
+    },
+    {
+      "EntityType": "unbreakableblock",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 1984,
+        "Y": 174
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 4
+    },
+    {
+      "EntityType": "unbreakableblock",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2000,
+        "Y": 158
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 3
+    },
+    {
+      "EntityType": "unbreakableblock",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2016,
+        "Y": 142
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 2
+    }
+
+  ]
+}

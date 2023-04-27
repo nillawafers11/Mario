@@ -1,0 +1,11 @@
+﻿Reviewer: Hua Hui Wu
+Date: 4/18/2023
+Sprint: 5
+Code: BulletBill.cs
+Author: MattchewMoar
+
+Line 16 to 29 about Enemystate should be in in BulletBullState.cs.
+OnCollision should use valuables instead of hardcoding the size of the entity sprite.
+BulletBull.cs inherted from the enemy class and only require few lines of code to do what it suppose to do.
+
+CodeReview time: 20 minute

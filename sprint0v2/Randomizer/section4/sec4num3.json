@@ -1,0 +1,165 @@
+{
+  "Entities": [
+    {
+      "EntityType": "ground",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 1536,
+        "Y": 206
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 32
+    },
+    {
+      "EntityType": "ground",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 1536,
+        "Y": 222
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 32
+    },
+    {
+      "EntityType": "unbreakableblock",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 1700,
+        "Y": 190
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    },
+    {
+      "EntityType": "unbreakableblock",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 1700,
+        "Y": 174
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    },
+    {
+      "EntityType": "bulletlauncher",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 1700,
+        "Y": 154
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    },
+    {
+      "EntityType": "brick",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 1780,
+        "Y": 120
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 3
+    },
+    {
+      "EntityType": "questionblock",
+      "EntitySubItem": "supermushroom",
+      "Location": {
+        "X": 1796,
+        "Y": 60
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    },
+    {
+      "EntityType": "goomba",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 1796,
+        "Y": 190
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    },
+    {
+      "EntityType": "goomba",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 1816,
+        "Y": 190
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    },
+    {
+      "EntityType": "unbreakableblock",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 1900,
+        "Y": 190
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    },
+    {
+      "EntityType": "unbreakableblock",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 1900,
+        "Y": 174
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    },
+    {
+      "EntityType": "bulletlauncher",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 1900,
+        "Y": 154
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    },
+    {
+      "EntityType": "unbreakableblock",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 1968,
+        "Y": 190
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 5
+    },
+    {
+      "EntityType": "unbreakableblock",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 1984,
+        "Y": 174
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 4
+    },
+    {
+      "EntityType": "unbreakableblock",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2000,
+        "Y": 158
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 3
+    },
+    {
+      "EntityType": "unbreakableblock",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2016,
+        "Y": 142
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 2
+    }
+
+  ]
+}

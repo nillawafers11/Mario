@@ -1,0 +1,16 @@
+﻿Author: Matthew Moore
+
+Coder: Allen
+
+Date: 10:30
+
+File: Background.cs
+
+Time Spent: 8 minutes
+
+This is our class that implements parallax for our background scrolling.
+It is Well organized And works great. A few changes that might possibly make the class better.
+Currently it is possible to set two layers to the same depth. That might cause an error if done by mistake.
+If Add Layer became public and we had an Update() method it might be possible to add layers to the
+background maybe to build a dynamic weather system or something. It also doesn’t have any error handling
+but again. I have not seen it error so maybe that would not be necessary.

@@ -1,0 +1,140 @@
+{
+  "Entities": [
+    {
+      "EntityType": "ground",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2048,
+        "Y": 206
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 10
+    },
+    {
+      "EntityType": "ground",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2048,
+        "Y": 222
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 10
+    },
+    {
+      "EntityType": "pipe",
+      "EntitySubItem": "tallpipe",
+      "Location": {
+        "X": 2171,
+        "Y": 180
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    },
+
+
+    {
+      "EntityType": "verticalPlatform",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2240,
+        "Y": 190
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    },
+    {
+      "EntityType": "questionblock",
+      "EntitySubItem": "supermushroom",
+      "Location": {
+        "X": 2256,
+        "Y": 20
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    },
+    {
+      "EntityType": "ground",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2352,
+        "Y": 110
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 5
+    },
+
+    {
+      "EntityType": "unbreakableblock",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2400,
+        "Y": 190
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    },
+    {
+      "EntityType": "unbreakableblock",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2400,
+        "Y": 174
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    },
+    {
+      "EntityType": "goomba",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2430,
+        "Y": 190
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    },
+
+    {
+      "EntityType": "ground",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2400,
+        "Y": 206
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 10
+    },
+    {
+      "EntityType": "ground",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2400,
+        "Y": 222
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 10
+    },
+
+
+    {
+      "EntityType": "unbreakableblock",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2560,
+        "Y": 190
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    },
+    {
+      "EntityType": "unbreakableblock",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2560,
+        "Y": 174
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    }
+  ]
+}

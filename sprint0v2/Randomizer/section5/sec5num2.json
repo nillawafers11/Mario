@@ -1,0 +1,136 @@
+{
+  "Entities": [
+    {
+      "EntityType": "ground",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2048,
+        "Y": 206
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 10
+    },
+    {
+      "EntityType": "ground",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2048,
+        "Y": 222
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 10
+    },
+    {
+      "EntityType": "goomba",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2080,
+        "Y": 190
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    },
+    {
+      "EntityType": "pipe",
+      "EntitySubItem": "tallpipe",
+      "Location": {
+        "X": 2160,
+        "Y": 150
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    },
+    {
+      "EntityType": "usedblock",
+      "EntitySubItem": "firebar",
+      "Location": {
+        "X": 2220,
+        "Y": 100
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    },
+    {
+      "EntityType": "pipe",
+      "EntitySubItem": "piranhaplant",
+      "Location": {
+        "X": 2280,
+        "Y": 170
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    },
+    {
+      "EntityType": "bulletlauncher",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2520,
+        "Y": 158
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    },
+    {
+      "EntityType": "ground",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2256,
+        "Y": 206
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 10
+    },
+    {
+      "EntityType": "ground",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2256,
+        "Y": 222
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 10
+    },
+    {
+      "EntityType": "ground",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2448,
+        "Y": 206
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 7
+    },
+    {
+      "EntityType": "ground",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2448,
+        "Y": 222
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 7
+    },
+
+
+    {
+      "EntityType": "unbreakableblock",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2520,
+        "Y": 190
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    },
+    {
+      "EntityType": "unbreakableblock",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 2520,
+        "Y": 174
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    }
+  ]
+}

@@ -1,0 +1,1333 @@
+{
+    "Entities": [
+        {
+            "EntityType": "mario",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 25,
+                "Y": 96
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": -16,
+                "Y": 48
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": -16,
+                "Y": 64
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": -16,
+                "Y": 80
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": -16,
+                "Y": 96
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 0,
+                "Y": 32
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 149
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 2420,
+                "Y": 32
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 170
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 0,
+                "Y": 112
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 3
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 0,
+                "Y": 128
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 4
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 0,
+                "Y": 144
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 5
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 0,
+                "Y": 160
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 6
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 0,
+                "Y": 176
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 6
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 0,
+                "Y": 192
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 6
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 0,
+                "Y": 208
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 6
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 0,
+                "Y": 224
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 6
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 176,
+                "Y": 208
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 8
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 176,
+                "Y": 224
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 8
+        },
+        {
+            "EntityType": "castlepipe",
+            "EntitySubItem": "piranhaplant",
+            "Location": {
+                "X": 304,
+                "Y": 176
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 336,
+                "Y": 208
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 7
+        },
+        {
+            "EntityType": "usedblock",
+            "EntitySubItem": "firebar",
+            "Location": {
+                "X": 448,
+                "Y": 208
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "usedblock",
+            "EntitySubItem": "firebar",
+            "Location": {
+                "X": 560,
+                "Y": 140
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "usedblock",
+            "EntitySubItem": "firebar",
+            "Location": {
+                "X": 672,
+                "Y": 208
+            },
+            "IsCollisionDetectionEnableds": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 464,
+                "Y": 208
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 13
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 688,
+                "Y": 208
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 8
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 336,
+                "Y": 224
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 30
+        },
+        {
+            "EntityType": "castlepipe",
+            "EntitySubItem": "piranhaplant",
+            "Location": {
+                "X": 816,
+                "Y": 176
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 848,
+                "Y": 208
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 13
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 848,
+                "Y": 224
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 13
+        },
+        {
+            "EntityType": "castleGoomba",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 896,
+                "Y": 192
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "castleGoomba",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 919,
+                "Y": 192
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "castleGoomba",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 943,
+                "Y": 192
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 992,
+                "Y": 192
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 4
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 992,
+                "Y": 176
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 4
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 992,
+                "Y": 160
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 4
+        },
+        {
+            "EntityType": "horizontalPlatform",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 1056,
+                "Y": 208
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 1200,
+                "Y": 160
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 6
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 1200,
+                "Y": 176
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 6
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 1200,
+                "Y": 192
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 6
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 1200,
+                "Y": 208
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 6
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 1200,
+                "Y": 224
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 6
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 1212,
+                "Y": 96
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 4
+        },
+        {
+            "EntityType": "castlepipe",
+            "EntitySubItem": "piranhaplant",
+            "Location": {
+                "X": 1296,
+                "Y": 128
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 1200,
+                "Y": 160
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 6
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 1328,
+                "Y": 160
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 7
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 1328,
+                "Y": 176
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 7
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 1328,
+                "Y": 192
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 7
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 1328,
+                "Y": 208
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 7
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 1328,
+                "Y": 224
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 7
+        },
+        {
+            "EntityType": "castlepipe",
+            "EntitySubItem": "mediumpipe",
+            "Location": {
+                "X": 1440,
+                "Y": 112
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 1472,
+                "Y": 160
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 4
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 1472,
+                "Y": 176
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 4
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 1472,
+                "Y": 192
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 4
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 1472,
+                "Y": 208
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 23
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 1472,
+                "Y": 224
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 23
+        },
+        {
+            "EntityType": "castlepipe",
+            "EntitySubItem": "piranhaplant",
+            "Location": {
+                "X": 1840,
+                "Y": 176
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 1872,
+                "Y": 208
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 5
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 1872,
+                "Y": 224
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 5
+        },
+        {
+            "EntityType": "castlepipe",
+            "EntitySubItem": "piranhaplant",
+            "Location": {
+                "X": 1952,
+                "Y": 160
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 1984,
+                "Y": 208
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 8
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 1984,
+                "Y": 224
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 8
+        },
+        {
+            "EntityType": "castlepipe",
+            "EntitySubItem": "piranhaplant",
+            "Location": {
+                "X": 2112,
+                "Y": 176
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 2144,
+                "Y": 208
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 8
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 2144,
+                "Y": 224
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 8
+        },
+        {
+            "EntityType": "castleKoopaTroopa",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 2224,
+                "Y": 185
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "castleKoopaTroopa",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 2256,
+                "Y": 185
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "castlepipe",
+            "EntitySubItem": "piranhaplant",
+            "Location": {
+                "X": 2272,
+                "Y": 160
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 2352,
+                "Y": 208
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 29
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 2832,
+                "Y": 208
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 18
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 2352,
+                "Y": 224
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 48
+        },
+        {
+            "EntityType": "hiddenblock",
+            "EntitySubItem": "vine",
+            "Location": {
+                "X": 2400,
+                "Y": 144
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 2432,
+                "Y": 144
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 2
+        },
+        {
+            "EntityType": "castleKoopaTroopa",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 2480,
+                "Y": 185
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "castleKoopaTroopa",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 2512,
+                "Y": 185
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "usedblock",
+            "EntitySubItem": "firebar",
+            "Location": {
+                "X": 2688,
+                "Y": 140
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "usedblock",
+            "EntitySubItem": "firebar",
+            "Location": {
+                "X": 2816,
+                "Y": 208
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "usedblock",
+            "EntitySubItem": "firebar",
+            "Location": {
+                "X": 2944,
+                "Y": 140
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "castlepipe",
+            "EntitySubItem": "piranhaplant",
+            "Location": {
+                "X": 3120,
+                "Y": 176
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 3152,
+                "Y": 208
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 7
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 3152,
+                "Y": 224
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 7
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 3168,
+                "Y": 192
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 6
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 3168,
+                "Y": 176
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 6
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 3168,
+                "Y": 160
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 6
+        },
+        {
+            "EntityType": "castlepipe",
+            "EntitySubItem": "piranhaplante",
+            "Location": {
+                "X": 3264,
+                "Y": 128
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 3296,
+                "Y": 160
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 6
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 3296,
+                "Y": 176
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 6
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 3296,
+                "Y": 192
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 6
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 3296,
+                "Y": 208
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 6
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 3296,
+                "Y": 224
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 6
+        },
+        {
+            "EntityType": "castlepipe",
+            "EntitySubItem": "piranhaplant",
+            "Location": {
+                "X": 3392,
+                "Y": 112
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 3424,
+                "Y": 160
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 6
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 3424,
+                "Y": 176
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 6
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 3424,
+                "Y": 192
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 6
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 3424,
+                "Y": 208
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 6
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 3424,
+                "Y": 224
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 6
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 3584,
+                "Y": 160
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 4
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 3584,
+                "Y": 176
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 4
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 3584,
+                "Y": 192
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 4
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 3584,
+                "Y": 208
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 4
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 3584,
+                "Y": 224
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 4
+        },
+        {
+            "EntityType": "castlepipe",
+            "EntitySubItem": "piranhaplant",
+            "Location": {
+                "X": 3648,
+                "Y": 128
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 3680,
+                "Y": 160
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 26
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 3680,
+                "Y": 176
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 26
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 3680,
+                "Y": 192
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 26
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 3680,
+                "Y": 208
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 29
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 3680,
+                "Y": 224
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 29
+        },
+        {
+            "EntityType": "castlepipe",
+            "EntitySubItem": "piranhaplant",
+            "Location": {
+                "X": 4144,
+                "Y": 176
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 4176,
+                "Y": 208
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 5
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 4176,
+                "Y": 224
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 5
+        },
+        {
+            "EntityType": "castlepipe",
+            "EntitySubItem": "piranhaplant",
+            "Location": {
+                "X": 4256,
+                "Y": 176
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 4288,
+                "Y": 208
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 9
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 4288,
+                "Y": 224
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 9
+        },
+        {
+            "EntityType": "hammerbro",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 4368,
+                "Y": 185
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 4512,
+                "Y": 160
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 6
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 4512,
+                "Y": 176
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 6
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 4512,
+                "Y": 192
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 6
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 4512,
+                "Y": 208
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 6
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 4512,
+                "Y": 224
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 6
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 4512,
+                "Y": 48
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 6
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 4512,
+                "Y": 64
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 6
+        },
+        {
+            "EntityType": "bridgeSegment",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 4608,
+                "Y": 160
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 12
+        },
+        {
+            "EntityType": "bridgeEnd",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 4800,
+                "Y": 144
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "bowser",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 4720,
+                "Y": 125
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "castleAxe",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 4816,
+                "Y": 128
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 0
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 4816,
+                "Y": 144
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 3
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 4816,
+                "Y": 160
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 3
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 4816,
+                "Y": 176
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 3
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 4816,
+                "Y": 192
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 3
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 4816,
+                "Y": 208
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 19
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 4816,
+                "Y": 224
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 19
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 4832,
+                "Y": 48
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 2
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 4832,
+                "Y": 64
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 2
+        },
+        {
+            "EntityType": "castleBrick",
+            "EntitySubItem": "none",
+            "Location": {
+                "X": 4832,
+                "Y": 80
+            },
+            "IsCollisionDetectionEnabled": true,
+            "rowloop": 2
+        },
+        {
+            "EntityType": "checkpointblock",
+            "entitySubItem": "none",
+            "Location": {
+                "X": 720,
+                "Y": 184
+            }
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+  "Entities": [
+    {
+      "EntityType": "ground",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 512,
+        "Y": 206
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 10
+    },
+    {
+      "EntityType": "ground",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 512,
+        "Y": 222
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 10
+    },
+    {
+      "EntityType": "horizontalPlatform",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 710,
+        "Y": 222
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    },
+    {
+      "EntityType": "pipe",
+      "EntitySubItem": "shortpipe",
+      "Location": {
+        "X": 635,
+        "Y": 174
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    },
+
+
+    {
+      "EntityType": "ground",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 704,
+        "Y": 142
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 5
+    },
+    {
+      "EntityType": "ground",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 816,
+        "Y": 110
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 5
+    },
+    {
+      "EntityType": "questionblock",
+      "EntitySubItem": "fireflower",
+      "Location": {
+        "X": 750,
+        "Y": 90
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    },
+
+
+
+    {
+      "EntityType": "ground",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 864,
+        "Y": 206
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 10
+    },
+    {
+      "EntityType": "ground",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 864,
+        "Y": 222
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 10
+    },
+    {
+      "EntityType": "unbreakableblock",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 1024,
+        "Y": 190
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    },
+    {
+      "EntityType": "unbreakableblock",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 1024,
+        "Y": 174
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    },
+    {
+      "EntityType": "goomba",
+      "EntitySubItem": "none",
+      "Location": {
+        "X": 990,
+        "Y": 190
+      },
+      "IsCollisionDetectionEnabled": true,
+      "rowloop": 0
+    }
+  ]
+}

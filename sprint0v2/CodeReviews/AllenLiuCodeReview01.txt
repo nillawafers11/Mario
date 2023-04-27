@@ -1,0 +1,21 @@
+The reviewer's name is Allen Liu.
+Date of review is 04/18/23.
+Sprint #5.
+File reviewed is named PlatformStates.cs.
+File author is Huahui Wu.
+The PlatformStates file has a basic platform state that probably could've 
+been named as abstract, with three concrete platform states called 
+PlatformStopState, PlatformHorizontalState, and PlatformVerticalState.
+By the name of these states, it appears that some platforms will take on 
+the horizontal state while other platforms will be in a vertical state.
+The transitions between platform states does not seem to exist apart from 
+nebulously named methods like PlatformStopState, PlatformVerticalState,
+and PlatformHorizontalState, which share the same names as the classes,
+and could cause confusion. A better way to transition between states is
+to name the transitions methods what kind of state transition it will
+perform. Such as the need for a horizontal platform to reverse its
+direction, the state transition method name could be ReverseDirection,
+with the appropriate entity property changes made, and the method could
+be a part of the concrete class, instead of all transitions being part of
+the supposedly abstract PlatformState class. 
+Review took 15 minutes.

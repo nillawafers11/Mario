@@ -1,0 +1,12 @@
+Author: Christian Nill
+Date: 4/18/2023
+Sprint: 5
+Name of file: Fireworks.cs
+Author of file: Matthew Moore
+Comments:
+- Update is cluttered. Can seperate a lot of the timer stuff into helper methods.
+- Draw is standard.
+- Why the need to set the delayElapsedTime and this.delay twice? Once in the constructor, the other in Initialize.
+
+Minutes to complete: 5
+Hypothetical change: The movement on the fireworks could be similarly adapted for Cheep Cheeps or Bloopers.

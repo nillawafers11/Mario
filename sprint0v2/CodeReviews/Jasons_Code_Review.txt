@@ -1,0 +1,14 @@
+Jason Jiang
+4/18/23
+Sprint 5
+Bowser.cs
+Chistian Nill
+15 minutes
+
+
+Using a queue to hold actions works well for sequential actions, but if bowser has actions that should occur parallel or conditional to each other (i.e. jumping and throwing hammers), then it might
+be better to use a state design instead. The class could benefit from better ecapsulation, as it exposes many internal fields and methods, sch as BowserDefeatedState class. Bowser's AI could also use some imrpovements,
+as his behavior is largely deterministic and repetitive. He could become more unpredictable if we adjust his attack patterns and movement speed based on player's behavior and location.
+
+One area of improvement could be the use of magic numbers throughout the code. For example, the values for hammerDelay, bridgeLeft, and bridgeRight are hard-coded, and it would be better to define these
+values as constants or properties to make the code more maintainable and easier to read.
